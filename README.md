@@ -1,6 +1,6 @@
 ### Hi there 🔭 I’m currently working on C# ... 👋
 
-![Image of Yaktocat](https://i.hizliresim.com/Fg58L2.jpg)
+![Image of Yaktocat](https://i.hizliresim.com/tgTA7d.png)
 [![N|Solid](https://i.hizliresim.com/g1uwW5.png)](https://www.linkedin.com/in/serpil-d%C3%B6ner/)
 <!--
 **SDONER/SDONER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
