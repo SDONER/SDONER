@@ -7,6 +7,8 @@
 
 Here are some ideas to get you started:
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatihkayan20&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkayan20&hide=python&layout=compact&show_icons=true&theme=tokyonight">
@@ -17,5 +19,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=fatihkayan20&show_icons=true&theme=tokyonight"</img>
   </a>
 </p>
-
--->
