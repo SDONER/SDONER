@@ -7,6 +7,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on C# ...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihkayan20&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkayan20&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/fatihkayan20/CarRent">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=CarRent&show_icons=true&theme=tokyonight"</img>
+  </a>
+  <a href="https://github.com/fatihkayan20/fatihkayan20">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=fatihkayan20&show_icons=true&theme=tokyonight"</img>
+  </a>
+</p>
 
 -->
