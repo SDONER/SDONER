@@ -1,5 +1,4 @@
 ### Hi there 🔭 I’m currently working on C# ... 👋
-![Image of Yaktocat](https://i.ibb.co/KwqBFt1/giphy.gif) ![Image of Yaktocat](https://i.ibb.co/KwqBFt1/giphy.gif) 
 ![Image of Yaktocat](https://i.hizliresim.com/tgTA7d.png)
 [![N|Solid](https://i.hizliresim.com/uXZDEj.png)](https://www.linkedin.com/in/serpil-d%C3%B6ner/)
   <a href="mailto:business.serpildoner@gmail.com" target="_blank" rel="nofollow"><img alt="Serpil's Mail Address" src="https://i.hizliresim.com/OhJPlw.png" /></a>
