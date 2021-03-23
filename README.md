@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serpil</h1>
 <h3 align="center">I'm a Jr. FullStack Deceloper 😎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdoner&label=Profile%20views&color=0e75b6&style=flat" alt="sdoner" /> </p>
+<p align="top"> <img src="https://komarev.com/ghpvc/?username=sdoner&label=Profile%20views&color=0e75b6&style=flat" alt="sdoner" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdoner" alt="sdoner" /></a> </p>
 
