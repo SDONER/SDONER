@@ -1,8 +1,7 @@
 ![Image of Yaktocat](https://i.hizliresim.com/tgTA7d.png)
 [![N|Solid](https://i.hizliresim.com/uXZDEj.png)](https://www.linkedin.com/in/serpil-d%C3%B6ner/)
   <a href="mailto:business.serpildoner@gmail.com" target="_blank" rel="nofollow"><img alt="Serpil's Mail Address" src="https://i.hizliresim.com/OhJPlw.png" /></a>
-<!--
-**SDONER/SDONER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h1 align="center">Hi 👋, I'm Serpil</h1>
 <h3 align="center">I'm a Jr. FullStack Deceloper 😎</h3>
