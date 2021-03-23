@@ -1,6 +1,6 @@
 ![Image of Yaktocat](https://i.hizliresim.com/tgTA7d.png)
 [![N|Solid](https://i.hizliresim.com/uXZDEj.png)](https://www.linkedin.com/in/serpil-d%C3%B6ner/)
-  <a href="mailto:business.serpildoner@gmail.com" target="_blank" rel="nofollow"><img alt="Serpil's Mail Address" src="https://i.hizliresim.com/OhJPlw.png" /></a>  <p align="top"> <img src="https://komarev.com/ghpvc/?username=sdoner&label=Profile%20views&color=0e75b6&style=flat" float:right alt="sdoner" /> </p>
+  <a href="mailto:business.serpildoner@gmail.com" target="_blank" rel="nofollow"><img alt="Serpil's Mail Address" src="https://i.hizliresim.com/OhJPlw.png" /></a>  <p align="right"> <img src="https://komarev.com/ghpvc/?username=sdoner&label=Profile%20views&color=0e75b6&style=flat" float:right alt="sdoner" /> </p>
 
 <h1 align="center">Hi 👋, I'm Serpil</h1>
 <h3 align="center">I'm a Jr. FullStack Deceloper 😎</h3>
