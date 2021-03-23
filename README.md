@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdoner&show_icons=true&locale=en" alt="sdoner" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdoner&" alt="sdoner" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sdoner&" alt="sdoner" /></p>
 
 ![Image of Yaktocat](https://i.hizliresim.com/tgTA7d.png)
 [![N|Solid](https://i.hizliresim.com/uXZDEj.png)](https://www.linkedin.com/in/serpil-d%C3%B6ner/)
