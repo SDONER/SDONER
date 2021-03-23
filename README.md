@@ -11,7 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdoner&show_icons=true&locale=en&layout=compact" alt="sdoner" /></p>
 
-<p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=sdoner&show_icons=true&locale=en" alt="sdoner" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sdoner&" alt="sdoner" /></p>
 
