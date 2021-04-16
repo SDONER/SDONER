@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://i.pinimg.com/736x/9f/85/0a/9f850aaeba4288a615793c6045360cea.jpg)
+![Image of Yaktocat](https://media-exp1.licdn.com/dms/image/C511BAQH9_ODPQuKaAQ/company-background_10000/0/1549007428516?e=2159024400&v=beta&t=FxZ8-J8YVDQ82P5Rmvl8h23vJ_RAA9a8JWuu4loiFEM)
 [![N|Solid](https://www.resimag.com/p1/401c890eeaa5.png)](https://www.linkedin.com/in/serpil-d%C3%B6ner/)
   <a href="mailto:business.serpildoner@gmail.com" target="_blank" rel="nofollow"><img alt="Serpil's Mail Address" src="https://www.resimag.com/p1/39a70d7765bd.png" /></a>  
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=sdoner&label=Profile%20views&color=0e75b6&style=flat" float:right alt="sdoner" /> </p>
